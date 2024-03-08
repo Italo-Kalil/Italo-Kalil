@@ -1,9 +1,9 @@
 <?php 
 
 namespace Italo\Composerteste;
-class Conta_bancaria{
+class cl_Conta_bancaria{
     
 }
-$conta1 = new Conta_bancaria();
+$conta1 = new cl_Conta_bancaria();
 var_dump($conta1);
 ?>
