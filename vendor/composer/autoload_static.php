@@ -27,13 +27,13 @@ class ComposerStaticInit2aa25c62c373acd1a8235c51e83cd97e
             'Mpdf\\PsrHttpMessageShim\\' => 24,
             'Mpdf\\' => 5,
         ),
-        'I' => 
-        array (
-            'Italo\\Composerteste\\' => 20,
-        ),
         'D' => 
         array (
             'DeepCopy\\' => 9,
+        ),
+        'A' => 
+        array (
+            'App\\' => 4,
         ),
     );
 
@@ -62,13 +62,13 @@ class ComposerStaticInit2aa25c62c373acd1a8235c51e83cd97e
         array (
             0 => __DIR__ . '/..' . '/mpdf/mpdf/src',
         ),
-        'Italo\\Composerteste\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

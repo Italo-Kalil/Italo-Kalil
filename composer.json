@@ -1,19 +1,19 @@
 {
-    "name": "italo/composerteste",
-    "description": "Estudando composer",
-    "type": "project",
-    "autoload": {
-        "psr-4": {
-            "Italo\\Composerteste\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "italo kalil",
-            "email": "italofarias071@gmail.com"
-        }
-    ],
-    "require": {
-        "mpdf/mpdf": "^8.2"
+  "name": "italo/composerteste",
+  "description": "Estudando composer",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "italo kalil",
+      "email": "italofarias071@gmail.com"
+    }
+  ],
+  "require": {
+    "mpdf/mpdf": "^8.2"
+  }
 }
